@@ -168,6 +168,85 @@ http://motorsport.hopto.org:8080/
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1,USA Live TV Big Ten Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTM3U
+ 
+#EXTINF:-1, Sky sports F1
+http://sportztv.net/live/SportsTv/Appss/6.ts?.1234
+
+
+#EXTINF:-1,Sky movies
+http://sportztv.net/live/SportsTv/Appss/7.ts?.1234
+
+
+#EXTINF:-1,Setanta
+http://sportztv.net/live/SportsTv/Appss/8.ts?.1234
+
+
+#EXTINF:-1,Setanta 1
+http://sportztv.net/live/SportsTv/Appss/9.ts?.1234
+
+
+#EXTINF:-1,BT Sport 1
+http://sportztv.net/live/SportsTv/Appss/10.ts?.1234
+
+
+#EXTINF:-1,BT Sport 2
+http://sportztv.net/live/SportsTv/Appss/11.ts?.1234
+
+
+#EXTINF:-1,Eurosport
+http://sportztv.net/live/SportsTv/Appss/12.ts?.1234
+
+
+#EXTINF:-1,Eurosport 2
+http://sportztv.net/live/SportsTv/Appss/13.ts?.1234
+
+
+#EXTINF:-1,ESPN
+http://sportztv.net/live/SportsTv/Appss/14.ts?.1234
+
+
+#EXTINF:-1,Box Nation
+http://sportztv.net/live/SportsTv/Appss/15.ts?.1234
+
+
+#EXTINF:-1,TSN 1
+http://sportztv.net/live/SportsTv/Appss/34.ts?.1234
+
+
+#EXTINF:-1, Sky bundesliga 1 HD
+http://sportztv.net/live/SportsTv/Appss/38.ts?.1234
+
+ 
+#EXTINF:-1,Beinsport1HD
+rtmp://sbox.cdnss.com:1935/live/bein01?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport2HD
+rtmp://sbox.cdnss.com:1935/live/bein02?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport3HD
+rtmp://sbox.cdnss.com:1935/live/bein03?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport4HD
+rtmp://sbox.cdnss.com:1935/live/bein04?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport5HD
+rtmp://sbox.cdnss.com:1935/live/bein05?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport6HD
+rtmp://sbox.cdnss.com:1935/live/bein06?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport7HD
+rtmp://sbox.cdnss.com:1935/live/bein07?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport8HD
+rtmp://sbox.cdnss.com:1935/live/bein08?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport9HD
+rtmp://sbox.cdnss.com:1935/live/bein09?user=86p14s&pass=ktv07k
+
+#EXTINF:-1,Beinsport10HD
+rtmp://sbox.cdnss.com:1935/live/bein10?user=86p14s&pass=ktv07k
 
 #EXTINF:-1,4 Music
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=22
@@ -309,7 +388,7 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 mmsh://207.7.154.95/G0937_002?wmcache=0&MSWMExt=.asf
 #EXTINF:-1,Cartoon (RU/EN Audio)
 http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
-#EXTINF:-1,Channel 6 – City of Austin
+#EXTINF:-1,Channel 6 ? City of Austin
 rtmp://oflash.dfw.swagit.com/live/austintx/live-1?b?b*t$
 #EXTINF:-1,CNBC
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
