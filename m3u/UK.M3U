@@ -205,9 +205,8 @@ http://sportztv.net/live/SportsTv/Appss/13.ts?.1234
 #EXTINF:-1,ESPN
 http://sportztv.net/live/SportsTv/Appss/14.ts?.1234
 
-
-#EXTINF:-1,Box Nation
-http://sportztv.net/live/SportsTv/Appss/15.ts?.1234
+#EXTINF:-1 Box Nation
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:80/live playpath=bxx swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.reytv.co/embed.php?live=bxx&vw=620&vh=490 token=%Zrey(nKa@#Z
 
 
 #EXTINF:-1,TSN 1
